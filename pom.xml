@@ -6,12 +6,33 @@
 	<artifactId>GameSlick2D</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>GameSlick2D</name>
+	<developers>
+		<developer>
+			<id>xhackax47</id>
+			<name>Samy</name>
+			<email>xhackax47@gmail.com</email>
+			<url>https://github.com/xhackax47</url>
+			<organization>NONE</organization>
+			<organizationUrl></organizationUrl>
+			<roles>
+				<role>Architect</role>
+				<role>Java /J2EE Developer</role>
+			</roles>
+			<timezone>France/Montpellier</timezone>
+			<properties>
+				<picUrl></picUrl>
+			</properties>
+		</developer>
+	</developers>
 
 	<properties>
-	    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.compiler.source>10</maven.compiler.source>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<project.build.outputEncoding>UTF-8</project.build.outputEncoding>
+		<project.build.inputEncoding>UTF-8</project.build.inputEncoding>
 		<maven.compiler.target>10</maven.compiler.target>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.inputEncoding>UTF-8</project.reporting.inputEncoding>
 	</properties>
 
 	<repositories>
